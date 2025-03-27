@@ -1,10 +1,13 @@
-# KiasuKaki - Government Scheme Chatbot and Feedback Analyzer
+# AhSiongBot - Your Personal Grocery Assistant
 
 ## Project Description
 
-KiasuKaki is a chatbot application developed for the hackathon challenge: _"How can we leverage Generative AI to enhance or propose new government initiatives and services in smart cities?"_ Our solution utilizes Google's Gemini API to provide citizens with improved access to and understanding of government information within a smart city environment. We offer a conversational interface for complex information, alongside a robust feedback analysis tool to inform future policy and service improvements.
+AhSiongBot is an intelligent chatbot designed to revolutionize your grocery shopping experience within our supermarket mobile application. This cutting-edge AI assistant is here to make your shopping journey more informed, efficient, and tailored to your needs.
 
-This project tackles the challenge of information accessibility in smart cities, where dense government documents and policies can often overwhelm citizens. By combining natural language processing, efficient document retrieval, and insightful feedback analysis, KiasuKaki empowers users to quickly find clear and concise answers to their questions. This approach promotes a more informed and engaged populace. Additionally, the feedback analysis tool provides valuable, real-time insights that enable government administrators to enhance existing services, and make data driven decisions, improving government efficiency and responsiveness.
+**Key Features:**
+- Review Summaries: SmartShop AI analyzes and synthesizes customer reviews for products, providing you with concise, easy-to-understand summaries. Get the gist of what other shoppers think without spending hours reading individual reviews.
+- Real-Time Product Queries: Have a question about a specific product? SmartShop AI is at your service 24/7. From nutritional information to cooking suggestions, get instant answers to enhance your shopping decisions.
+- Allergy and Dietary Concerns: Worried about allergens or specific dietary requirements? SmartShop AI can quickly check product ingredients and alert you to potential allergens or conflicts with your dietary needs.
 
 **Key Features:**
 
@@ -19,7 +22,7 @@ This project tackles the challenge of information accessibility in smart cities,
 
 ## Setup Instructions
 
-To set up and run KiasuKaki, follow these steps:
+To set up and run AhSiongBot, follow these steps:
 
 1.  **Clone the Repository:**
 
@@ -130,24 +133,19 @@ To set up and run KiasuKaki, follow these steps:
 
 ### Example Queries:
 
-- **Chatbot:** "What are the requirements to be eligible for the cost of living special payment?"
-- **Chatbot:** "How much money will I get if I am eligible for the special payment?"
-
-## Contributors
-
-- Koh Jun Sheng
-- Matthew Lim Wei Li
-- Ben Tan Kiat
-- Keith Ng Jun Hao
-- Ng Jun Heng, Keith
+- **Chatbot:** "Summarise the reviews for this product"
+- **Chatbot:** "I am allergic to diary. Is this product suitable for me?"
 
 ## Additional Notes
+This AI Chatbot was adapted from a collaborative project done for Hack for Cities 2025 Hackathon. Contributors for the development of the original Chatbot are as follows:
+
+## Contributors
+    - Koh Jun Sheng
+    - Matthew Lim Wei Li
+    - Ben Tan Kiat
+    - Keith Ng Jun Hao
+    - Ng Jun Heng, Keith
 
 - **Limitations:**
   - The chatbot is limited by the knowledge within the provided document database and does not use external knowledge.
   - The dashboard requires valid feedback data to provide correct analysis.
-- **Future Improvements:**
-  - Add support for multiple document types beyond PDFs.
-  - Implement user authentication.
-  - Enhance the chatbot's response format and contextual understanding using advanced Gemini techniques and other LLM tools.
-  - Implement a more sophisticated system to extract more granular data from user feedback.
