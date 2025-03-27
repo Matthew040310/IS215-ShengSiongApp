@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+google-generativeai
+chromadb
+langchain
+pypdf
+pandas
+plotly
+textblob
+langchain-community
