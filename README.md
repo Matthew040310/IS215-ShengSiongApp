@@ -5,9 +5,9 @@
 AhSiongBot is an intelligent chatbot designed to revolutionize your grocery shopping experience within our supermarket mobile application. This cutting-edge AI assistant is here to make your shopping journey more informed, efficient, and tailored to your needs.
 
 **Key Features:**
-- Review Summaries: SmartShop AI analyzes and synthesizes customer reviews for products, providing you with concise, easy-to-understand summaries. Get the gist of what other shoppers think without spending hours reading individual reviews.
-- Real-Time Product Queries: Have a question about a specific product? SmartShop AI is at your service 24/7. From nutritional information to cooking suggestions, get instant answers to enhance your shopping decisions.
-- Allergy and Dietary Concerns: Worried about allergens or specific dietary requirements? SmartShop AI can quickly check product ingredients and alert you to potential allergens or conflicts with your dietary needs.
+- Review Summaries: AhSiongBot AI analyses and synthesises customer reviews for products, providing you with concise, easy-to-understand summaries. Get the gist of what other shoppers think without spending hours reading individual reviews.
+- Real-Time Product Queries: Have a question about a specific product? AhSiongBot AI is at your service 24/7. From nutritional information to cooking suggestions, get instant answers to enhance your shopping decisions.
+- Allergy and Dietary Concerns: Worried about allergens or specific dietary requirements? AhSiongBot AI can quickly check product ingredients and alert you to potential allergens or conflicts with your dietary needs.
 
 **Key Features:**
 
